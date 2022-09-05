@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="app_name">DrawableTest</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="battery_level">Battery Level</string>
+</resources>
